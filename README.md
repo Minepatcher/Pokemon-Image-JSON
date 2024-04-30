@@ -1,7 +1,7 @@
 # Pokemon-Image-JSON
 Setup Pokemon Images in a format that works better for JSON
 
-WORK IN PROGRESS: gen 5 through 9
+WORK IN PROGRESS: gen 6 through 9
 
 ### Image References:
 - [Pokemon Home Sprite Resources](https://www.spriters-resource.com/nintendo_switch/pokemonhome/)
