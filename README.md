@@ -1,5 +1,5 @@
 # Pokemon-Image-JSON
-Setup Pokemon Images in a format that works better for JSON
+Setup Pokemon Images in a format that works better for JSON (my interpretation)
 
 WORK IN PROGRESS: gen 6 through 9
 
